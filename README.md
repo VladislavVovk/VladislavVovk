@@ -9,4 +9,4 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=VladislavVovk&theme=onedark&column=-1)](https://github.com/VladislavVovk/github-profile-trophy)
 
 
-![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
+![github contribution grid snake animation](https://raw.githubusercontent.com/VladislavVovk/VladislavVovk/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/VladislavVovk/VladislavVovk/output/github-contribution-grid-snake.svg#gh-light-mode-only)
